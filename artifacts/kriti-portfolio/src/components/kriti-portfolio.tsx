@@ -259,7 +259,7 @@ export function KritiPortfolio() {
             <div className="friends-frame">
               <div className="frame-inner">
                 <div className="frame-caption">a little corner of the internet</div>
-                <img className="mascot-image" src="/kriti-developer-mascot.png" alt="Illustration of a developer at a laptop with a coffee cup" data-testid="img-developer-mascot" />
+                <img className="mascot-image" src="${import.meta.env.BASE_URL}kriti-developer-mascot.png" alt="Illustration of a developer at a laptop with a coffee cup" data-testid="img-developer-mascot" />
                 <span className="code-float code-one" aria-hidden="true">&lt;/&gt;</span>
                 <span className="code-float code-two" aria-hidden="true">{"{ }"}</span>
               </div>
