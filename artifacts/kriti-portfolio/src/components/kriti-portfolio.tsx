@@ -230,7 +230,7 @@ export function KritiPortfolio() {
 
       <header className="site-nav">
         <div className="nav-inner">
-          <a href="#home" className="nav-mark" onClick={() => goTo("home")} data-testid="link-home">KK<span aria-hidden="true">.</span></a>
+          <a href="#home" className="nav-mark" onClick={() => goTo("home")} data-testid="link-home">KK<span aria-hidden="true"></span></a>
           <nav className="nav-links" aria-label="Primary navigation">
             {navItems.map((item) => <a href={`#${item.id}`} className={`nav-link ${activeSection === item.id ? "active" : ""}`} onClick={() => goTo(item.id)} key={item.id} data-testid={`link-nav-${item.id}`}>{item.label}</a>)}
           </nav>
@@ -244,10 +244,10 @@ export function KritiPortfolio() {
       <section id="home" className="section hero">
         <div className="hero-grid">
           <div className="hero-copy">
-            <div className="eyebrow"><span aria-hidden="true" /> available for thoughtful software work</div>
+            {/* <div className="eyebrow"><span aria-hidden="true" /> available for thoughtful software work</div> */}
             <h1>Kriti<br /><em>Kashyap</em></h1>
-            <p className="hero-title">Computer Science student <span aria-hidden="true">/</span> Software Developer Intern</p>
-            <p className="hero-blurb">I build grounded AI systems, useful web experiences, and the occasional tiny interface with a lot of personality. Based in Navi Mumbai, currently learning in public and shipping at CollaMeta.</p>
+            <p className="hero-title">Computer Science B.Tech student <span aria-hidden="true">,</span> Software Developer Intern</p>
+            <p className="hero-blurb">I build grounded AI systems, useful web experiences, and the occasional tiny interface with a lot of personality. Based in Navi Mumbai, currently learning in public at SAS R&D.</p>
             <div className="hero-actions">
               <button type="button" className="button primary" onClick={() => goTo("projects")} data-testid="button-explore-work">Explore my work <ArrowDownRight className="arrow" size={16} /></button>
               <a className="button secondary" href="mailto:kritikashyap2316@gmail.com" data-testid="link-hero-email">Let's connect <ArrowUpRight className="arrow" size={15} /></a>
@@ -273,8 +273,8 @@ export function KritiPortfolio() {
 
       <div className="highlight-strip" aria-label="Portfolio highlights">
         <div className="strip-items">
-          <span data-testid="text-highlight-internship">Current: CollaMeta intern</span>
-          <span data-testid="text-highlight-rag">Grounded AI systems</span>
+          <span data-testid="text-highlight-internship">Current: SAS R&D Research Intern</span>
+          <span data-testid="text-highlight-rag">Intelligent AI systems</span>
           <span data-testid="text-highlight-gpa">9.08 / 10 GPA</span>
           <span data-testid="text-highlight-location">Navi Mumbai</span>
         </div>
@@ -286,7 +286,7 @@ export function KritiPortfolio() {
           <div className="about-paper">
             <h2 className="section-title">A little<br />about me<span aria-hidden="true">.</span></h2>
             <p>I'm a final-year Computer Science Engineering student at PCET's Pimpri Chinchwad University, Pune, with a soft spot for the space where thoughtful interfaces meet technically careful systems.</p>
-            <p>My work moves between local RAG experiments, responsive React interfaces, data-heavy dashboards, and the small details that make software kinder to use. At CollaMeta, that means building for elderly users; in my projects, it means asking where an answer came from before I make it sound certain.</p>
+            <p>My work sits at the intersection of grounded AI, thoughtful web experiences, and data-driven interfaces. I like building things that are technically curious but still useful—systems that know their context, interfaces that respect their users, and small details that make software feel a little more human.</p>
             <div className="fact-row">
               <span className="fact-chip">final-year CSE student</span>
               <span className="fact-chip">software developer intern</span>
@@ -305,11 +305,11 @@ export function KritiPortfolio() {
             <article className="experience-card current" data-testid="card-experience-collameta">
               <span className="current-badge">current</span>
               <div className="experience-top">
-                <div><h3 className="experience-role">Summer Intern</h3><p className="experience-company">CollaMeta · International Internship</p></div>
+                <div><h3 className="experience-role">Research Intern</h3><p className="experience-company">SAS R&D Pune</p></div>
                 <span className="experience-dates">Current</span>
               </div>
-              <p className="experience-copy">Developing an Android cognitive assessment app with interactive quiz and memory modules. The work brings together Android Studio, Java, XML, and Firebase Realtime Database, with accessibility, usability, and UX considerations for elderly users.</p>
-              <div className="tag-list"><span className="tag">Android Studio</span><span className="tag">Java</span><span className="tag">XML</span><span className="tag">Firebase Realtime Database</span></div>
+              <p className="experience-copy">Enhancing a performance and concurrency testing framework for RISK RCM and IRR solutions, focusing on stability and automating manual testing workflows through the RCI-provided framework.</p>
+              <div className="tag-list"><span className="tag">SAS</span><span className="tag">Python</span><span className="tag">YAML</span><span className="tag">Postgres DB</span></div>
             </article>
             <article className="experience-card" data-testid="card-experience-barc">
               <div className="experience-top">
@@ -318,6 +318,14 @@ export function KritiPortfolio() {
               </div>
               <p className="experience-copy">Worked on Apex Project Monitoring dashboards, KPIs, financial analysis, and graphical analytics using Java, Spring MVC, Hibernate, and PostgreSQL. Also used Python for server and database log analysis to investigate slow queries, bottlenecks, and anomalies.</p>
               <div className="tag-list"><span className="tag">Java</span><span className="tag">Spring MVC</span><span className="tag">Hibernate</span><span className="tag">PostgreSQL</span><span className="tag">Python</span></div>
+            </article>
+            <article className="experience-card" data-testid="card-experience-collameta">
+              <div className="experience-top">
+                <div><h3 className="experience-role">Summer Intern</h3><p className="experience-company">CollaMeta · International Internship</p></div>
+                <span className="experience-dates">May 24 – Jun 24</span>
+              </div>
+              <p className="experience-copy">Developing an Android cognitive assessment app with interactive quiz and memory modules. The work brings together Android Studio, Java, XML, and Firebase Realtime Database, with accessibility, usability, and UX considerations for elderly users.</p>
+              <div className="tag-list"><span className="tag">Android Studio</span><span className="tag">Java</span><span className="tag">XML</span><span className="tag">Firebase Realtime Database</span></div>
             </article>
           </div>
         </div>
@@ -341,7 +349,7 @@ export function KritiPortfolio() {
         <div className="section reveal">
           <div className="section-kicker">04 / things I've built</div>
           <h2 className="section-title">Projects with<br /><em>receipts.</em></h2>
-          <p className="section-intro">A wall of experiments, systems, and interfaces. Open a card for the longer version — every detail here comes from my work.</p>
+          <p className="section-intro">A wall of experiments, systems, and interfaces. Open a card for the enriched version — every detail here comes from my work.</p>
           <div className="projects-wall">
             {projects.map((project, index) => <button type="button" className="project-card" onClick={() => setSelectedProject(project)} key={project.id} data-testid={`card-project-${project.id}`} aria-label={`Open details for ${project.title}`}>
               <div className="project-image"><span className="project-symbol" aria-hidden="true">{project.symbol}</span><span className="project-number">0{index + 1} / project note</span></div>
