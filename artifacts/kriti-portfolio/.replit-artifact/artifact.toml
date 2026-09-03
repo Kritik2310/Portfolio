@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Kriti Kashyap — Portfolio"
+description = "A warm, scrapbook-inspired personal portfolio for Kriti Kashyap, a Computer Science engineering student and software developer intern, showcasing her AI projects, experience, skills, education, and contact links."
+version = "1.0.0"
+id = "artifacts/kriti-portfolio"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 24287
+
+[services.development]
+run = "pnpm --filter @workspace/kriti-portfolio run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/kriti-portfolio", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/kriti-portfolio/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "24287"
+BASE_PATH = "/"

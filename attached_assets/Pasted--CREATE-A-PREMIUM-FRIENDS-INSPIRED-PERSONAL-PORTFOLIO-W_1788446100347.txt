@@ -1,0 +1,1408 @@
+# CREATE A PREMIUM FRIENDS-INSPIRED PERSONAL PORTFOLIO WEBSITE FOR A FINAL-YEAR COMPUTER SCIENCE STUDENT
+
+Create a complete, production-quality, visually exceptional personal portfolio website for a **final-year Computer Science and Engineering student who is currently working as a Software Developer Intern**.
+
+The website must combine two identities into one cohesive experience:
+
+1. A technically strong, professional software developer portfolio suitable for recruiters, hiring managers, software engineers, and internship/full-time opportunities.
+2. A cute, aesthetic, warm, nostalgic, playful personal visual identity inspired by the overall visual feeling of the **FRIENDS television show**, especially its iconic purple picture-frame aesthetic.
+
+The final website should feel like a **personal digital scrapbook belonging to a Computer Science student**, rather than a conventional developer portfolio.
+
+The desired design direction is:
+
+**FRIENDS-inspired × Cute Female Developer × Butter Yellow × Purple Frames × Scrapbook × Polaroids × Soft 3D × Interactive Portfolio**
+
+The website must be memorable, polished, responsive, technically credible, and highly personalized.
+
+---
+
+## 1. RESUME MUST BE THE SOURCE OF TRUTH
+
+The attached resume contains the actual professional information of the portfolio owner.
+
+Before creating the website, carefully inspect and understand the complete resume.
+
+Extract all relevant information from it, including:
+
+* Full name
+* Professional title
+* Career summary
+* About information
+* Current internship
+* Previous internships
+* Work experience
+* Companies
+* Job titles
+* Employment dates
+* Education
+* Degree
+* University/college
+* Graduation year
+* CGPA or percentage
+* Programming languages
+* Frameworks
+* Libraries
+* Databases
+* Development tools
+* Cloud technologies
+* AI/ML technologies
+* Data science technologies
+* Relevant coursework
+* Projects
+* Project descriptions
+* Technologies used
+* Key contributions
+* Achievements
+* Awards
+* Hackathons
+* Certifications
+* Positions of responsibility
+* Leadership experience
+* GitHub
+* LinkedIn
+* Email
+* Other professional links
+
+The resume is the **single source of truth for factual content**.
+
+Do not fabricate any information.
+
+Do not invent technologies because they are common for Computer Science students.
+
+Do not invent projects.
+
+Do not invent achievements.
+
+Do not invent job responsibilities.
+
+Do not invent metrics.
+
+Do not invent companies.
+
+Do not invent certifications.
+
+Do not invent social media links.
+
+Do not invent testimonials.
+
+Do not invent client logos.
+
+Do not create fake statistics such as "20+ projects" or "95% Python proficiency" unless the resume explicitly supports those claims.
+
+You may rewrite resume content into cleaner, shorter, more engaging portfolio language, but the meaning and facts must remain accurate.
+
+The goal is to transform the resume into a compelling visual story, not to copy-paste the resume into HTML.
+
+---
+
+# 2. OVERALL CREATIVE DIRECTION
+
+The website should immediately feel different from a typical software developer portfolio.
+
+Avoid the common visual language of:
+
+* Black backgrounds
+* Neon gradients
+* Blue corporate dashboards
+* Generic glassmorphism
+* Generic coding illustrations
+* Standard rectangular cards
+* Excessive glowing effects
+* Template-like layouts
+
+Instead, create a warm and charming environment.
+
+Imagine entering a **beautifully designed digital bedroom/workspace/scrapbook of a Computer Science student**, where technical achievements are displayed through photographs, notes, frames, stickers, illustrations, and small animated objects.
+
+The design must remain sophisticated.
+
+The website should communicate:
+
+> "She is a serious software developer, but she also has a creative personality."
+
+The visual personality should never compromise professional credibility.
+
+---
+
+# 3. PRIMARY COLOR PALETTE
+
+The dominant background across the entire website must be a **light buttery yellow**.
+
+The butter-yellow color should become one of the strongest recognizable characteristics of the portfolio.
+
+Use a soft, creamy, warm palette rather than a saturated yellow.
+
+Suggested colors include:
+
+* Butter yellow: #FFF4C2
+* Soft cream: #FFF8DE
+* Warm ivory: #FFFDF3
+* Light beige: #F8EFCF
+* Dark brown: #2B2118
+* Soft brown: #604C3A
+* FRIENDS-inspired purple: #6E4A8D
+* Muted purple: #84639B
+
+Do not use too many additional colors.
+
+The overall visual formula should remain approximately:
+
+**70% butter yellow/cream**
+
+**20% dark brown/black**
+
+**10% purple and subtle accent colors**
+
+Purple should be particularly prominent in the hero frame and selected interactive elements.
+
+Dark brown should be used instead of pure black wherever possible because it will harmonize better with the warm background.
+
+---
+
+# 4. TYPOGRAPHY
+
+Use **Caacupé One** as the primary font throughout the entire website.
+
+The typography should feel distinctive, playful, modern, and slightly artistic.
+
+Use it consistently for:
+
+* Navigation
+* Headings
+* Hero title
+* Section titles
+* Project titles
+* Skills
+* Buttons
+* Timeline
+* Contact
+* Footer
+
+Use appropriate font sizes and line heights to maintain readability.
+
+The typography should not look childish.
+
+The objective is a font treatment that feels like a **creative personal brand**, not a school project.
+
+If the font is not available by default, use a reliable web-font loading method or the closest possible implementation while preserving the intended visual identity.
+
+---
+
+# 5. CONTINUOUS DECORATIVE SIDE BORDERS
+
+Create a unique decorative system running along the **left and right edges of the entire website**.
+
+The borders should visually continue throughout the complete scrolling experience.
+
+Use:
+
+* Dark brown
+* Black
+* Hand-drawn lines
+* Tiny dots
+* Stars
+* Hearts
+* Flowers
+* Computer icons
+* Code brackets
+* Small keyboards
+* Tiny arrows
+* Decorative squiggles
+* Small circles
+* Minimal FRIENDS-inspired motifs
+
+The borders should resemble a **hand-drawn scrapbook/notebook border**.
+
+They should be subtle rather than visually dominant.
+
+The main content must remain the focus.
+
+On desktop, the borders can be clearly visible.
+
+On tablets and mobile, reduce their size and density so they never interfere with content.
+
+Do not remove the visual concept entirely on mobile.
+
+---
+
+# 6. HERO SECTION — THE SIGNATURE EXPERIENCE
+
+The hero section must be the most visually memorable part of the website.
+
+When someone opens the website for the first time, they should immediately see:
+
+**Butter-yellow background + large purple FRIENDS-inspired frame + cute female Computer Science developer + introduction + subtle 3D element.**
+
+The hero should feel like the opening scene of the portfolio.
+
+Create a large, carefully composed **purple photo-frame-inspired structure**.
+
+It should be visually reminiscent of the famous FRIENDS picture-frame aesthetic while remaining an original design rather than directly reproducing copyrighted show artwork.
+
+The frame should have:
+
+* Purple outer border
+* Slight imperfections or handmade character
+* Warm inner cream area
+* Soft shadow
+* Rounded or slightly irregular edges
+* Small decorative details
+
+The frame should appear with a smooth entrance animation.
+
+---
+
+# 7. FEMALE COMPUTER SCIENCE DEVELOPER CHARACTER
+
+Inside the hero frame, create a **cute animated female Computer Science student/software developer character**.
+
+She should become the visual mascot of the portfolio.
+
+The character should communicate:
+
+* Computer Science
+* Software development
+* Intelligence
+* Creativity
+* Warm personality
+* Approachability
+
+Visual concepts may include:
+
+* Sitting with a laptop
+* Typing code
+* Sitting at a tiny workstation
+* Coffee cup beside her
+* Small coding symbols
+* Laptop displaying code
+* Headphones
+* Notebook
+* Tiny keyboard
+
+Use a modern cute 3D/cartoon illustration style.
+
+Avoid an overly childish appearance.
+
+The character should look polished enough to belong on a professional portfolio.
+
+---
+
+# 8. HERO CHARACTER ANIMATION
+
+Make the character subtly animated.
+
+Possible animations:
+
+* Blinking
+* Gentle breathing
+* Small head movement
+* Slight hand movement
+* Typing animation
+* Laptop screen animation
+* Tiny floating code symbols
+* Hair movement
+* Gentle body movement
+
+The animation must remain subtle.
+
+The user should feel that the portfolio is alive, but the animation should never distract from the content.
+
+Do not create aggressive bouncing, spinning, flashing, or constant movement.
+
+---
+
+# 9. HERO INTRODUCTION
+
+Place the professional introduction beside the character.
+
+Display:
+
+### NAME
+
+Use the exact name from the resume.
+
+### PROFESSIONAL TITLE
+
+Use the most accurate professional identity derived from the resume.
+
+For example, if supported:
+
+**Computer Science Student | Software Developer Intern**
+
+Then create a concise introduction of approximately two or three sentences.
+
+The introduction should communicate:
+
+* Current academic position
+* Current professional role
+* Main technical interests
+* Professional direction
+
+Do not use generic filler such as:
+
+"I am passionate about technology and innovation."
+
+Instead, make the writing specific to the actual resume.
+
+---
+
+# 10. HERO CALL-TO-ACTION BUTTONS
+
+Add polished interactive buttons such as:
+
+* Explore My Work
+* View Projects
+* About Me
+* Resume
+* Let's Connect
+
+Only show buttons that correspond to actual sections or available links.
+
+Buttons should have subtle interactions.
+
+On hover:
+
+* Move upward slightly
+* Shadow becomes stronger
+* Border changes
+* Purple accent appears
+* Small arrow moves
+* Gentle spring animation occurs
+
+Do not overanimate the buttons.
+
+---
+
+# 11. NAVIGATION
+
+Create a sticky/floating navigation bar.
+
+Possible navigation:
+
+* Home
+* About
+* Experience
+* Skills
+* Projects
+* Education
+* Achievements
+* Contact
+
+Only include sections that actually exist.
+
+The navigation should visually match the scrapbook aesthetic.
+
+Possible treatment:
+
+A small cream paper-like navigation card with dark-brown outline.
+
+The active navigation item should receive a subtle purple highlight.
+
+The navigation should remain readable and professional.
+
+On mobile, replace it with a clean hamburger menu.
+
+---
+
+# 12. ABOUT SECTION
+
+Create an "About Me" section that feels personal rather than corporate.
+
+Do not simply paste the resume summary.
+
+Rewrite the available resume information into a concise story.
+
+Possible structure:
+
+Left side:
+
+* Cute developer illustration
+* Small 3D laptop
+* Notebook
+* Coffee cup
+* Coding doodles
+
+Right side:
+
+* Personal introduction
+* Current role
+* Academic background
+* Technical interests
+* Career direction
+
+Use a heading such as:
+
+**"A little about me..."**
+
+or another subtle, natural FRIENDS-inspired phrase.
+
+Maintain factual accuracy.
+
+---
+
+# 13. EXPERIENCE SECTION
+
+Create a visually attractive professional timeline.
+
+Each experience should display:
+
+* Company
+* Position
+* Duration
+* Location if provided
+* Responsibilities
+* Technologies
+* Contributions
+
+Use a vertical timeline with scrapbook-inspired cards.
+
+Cards can resemble:
+
+* Polaroids
+* Sticky notes
+* Photo frames
+* Personal notes
+
+The current Software Developer Internship should receive slightly more visual emphasis because it represents the user's current professional role.
+
+For example:
+
+* Purple accent
+* "Current" badge
+* Slightly larger card
+* Animated status indicator
+
+Do not invent responsibilities or achievements.
+
+---
+
+# 14. SKILLS SECTION
+
+Transform the technical skills from the resume into an interactive visual section.
+
+Organize them into meaningful categories based only on the resume.
+
+Possible categories include:
+
+* Programming Languages
+* Frameworks
+* Libraries
+* Databases
+* AI/ML
+* Data & Analytics
+* Development Tools
+* Cloud
+* Other Technologies
+
+Do not create empty categories.
+
+Do not add technologies not found in the resume.
+
+Each skill should appear as a cute visual card, sticker, label, or small scrapbook object.
+
+On hover:
+
+* Slight lift
+* Small rotation
+* Shadow
+* Purple accent
+* Tiny animated doodle
+
+Do not use fake skill percentages.
+
+---
+
+# 15. PROJECTS SECTION
+
+The Projects section should be one of the strongest areas of the website.
+
+Every significant project from the resume should receive its own visual presentation.
+
+Each project card should contain:
+
+* Project name
+* Short description
+* Problem or purpose
+* Technologies
+* Main functionality
+* User's contribution
+* Results/impact if included in resume
+* GitHub/demo link if available
+
+Present projects as **FRIENDS-inspired photographs/polaroids pinned to a scrapbook wall**.
+
+Cards should have slightly varied rotations to create an organic feeling.
+
+Do not make them randomly chaotic.
+
+---
+
+# 16. PROJECT INTERACTIONS
+
+On hover:
+
+* Card lifts
+* Slight rotation
+* Image shifts
+* Shadow changes
+* Small decorative object appears
+
+On click, open an expanded project view or modal.
+
+The modal should provide more detail:
+
+* Project overview
+* Problem
+* Solution
+* Technologies
+* Features
+* Contribution
+* Results
+* Links
+
+Use only information supported by the resume.
+
+If no project image is available, create a tasteful abstract technical illustration rather than a fake screenshot.
+
+---
+
+# 17. EDUCATION SECTION
+
+Create an elegant education timeline.
+
+Show:
+
+* Degree
+* Institution
+* Graduation year
+* CGPA/percentage if present
+* Relevant information
+
+Use a notebook-inspired design.
+
+A small animated notebook, laptop, pencil, or coding object can accompany the section.
+
+Keep the section clean and less visually dense than Projects.
+
+---
+
+# 18. ACHIEVEMENTS AND CERTIFICATIONS
+
+If the resume contains:
+
+* Awards
+* Certifications
+* Hackathons
+* Competitions
+* Leadership
+* Positions of responsibility
+* Academic achievements
+
+create a dedicated visual section.
+
+Use collectible-style cards.
+
+Each card could resemble:
+
+* Sticker
+* Certificate
+* Polaroid
+* Small framed note
+* Scrapbook badge
+
+Possible heading:
+
+**"Things I've Picked Up Along the Way"**
+
+Do not create this section if the resume contains no relevant information.
+
+---
+
+# 19. RECURRING 3D VISUAL ELEMENT
+
+Create a consistent cute animated 3D visual object that appears throughout the website.
+
+The preferred visual language is:
+
+**tiny laptop / computer / coding desk companion.**
+
+The object should feel like a recurring character.
+
+Hero:
+
+Tiny laptop beside the main frame.
+
+About:
+
+Laptop + coffee.
+
+Skills:
+
+Small computer with floating code.
+
+Projects:
+
+Mini folder/computer.
+
+Contact:
+
+Tiny envelope or laptop.
+
+The 3D objects must feel like one coherent family.
+
+Use consistent:
+
+* Lighting
+* Materials
+* Colors
+* Scale
+* Shadows
+* Illustration style
+
+The object may subtly float and respond to mouse movement.
+
+---
+
+# 20. SCRAPBOOK VISUAL LANGUAGE
+
+Throughout the website, introduce small visual details:
+
+* Polaroids
+* Sticky notes
+* Tape strips
+* Hand-drawn arrows
+* Doodles
+* Stars
+* Hearts
+* Coffee cups
+* Tiny keyboards
+* Small computers
+* Code brackets
+* Paper textures
+* Little handwritten-style marks
+
+Do not clutter the page.
+
+Every decorative element should have a purpose.
+
+The design should feel intentionally art-directed.
+
+---
+
+# 21. SCROLL ANIMATIONS
+
+Use scroll-triggered animations throughout the page.
+
+Examples:
+
+* Section headings fade in
+* Cards slide upward
+* Polaroids rotate into position
+* Timeline elements appear sequentially
+* 3D objects move subtly
+* Doodles appear
+* Purple frame elements animate
+* Small particles float
+
+Keep animations smooth.
+
+Use short, polished transitions.
+
+Avoid scroll-jacking.
+
+Natural browser scrolling must remain intact.
+
+---
+
+# 22. MICRO-INTERACTIONS
+
+Add subtle details that make the website feel premium.
+
+Examples:
+
+* Buttons respond to hover
+* Cards lift
+* Polaroids rotate slightly
+* Links underline smoothly
+* Icons move subtly
+* Small stars appear near hovered objects
+* Navigation active state transitions smoothly
+* Project cards have depth
+* 3D object reacts slightly to cursor
+
+Animations should communicate interaction rather than simply exist for decoration.
+
+---
+
+# 23. CONTACT SECTION
+
+End the portfolio with a warm, memorable contact section.
+
+Use a subtle FRIENDS-inspired phrase such as:
+
+**"Could We Be Friends?"**
+
+or:
+
+**"Let's build something together."**
+
+Then show the actual contact methods from the resume.
+
+Possible:
+
+* Email
+* GitHub
+* LinkedIn
+* Portfolio
+* Other professional links
+
+Never fabricate contact details.
+
+Make the contact buttons large, friendly, and easy to use.
+
+Use subtle animations.
+
+---
+
+# 24. FOOTER
+
+Create a minimal warm footer.
+
+Possible playful line:
+
+**"Built with code, caffeine & a little chaos."**
+
+Include:
+
+* Name
+* Copyright
+* GitHub
+* LinkedIn
+
+where available.
+
+A tiny animated computer or 3D laptop can appear near the footer.
+
+---
+
+# 25. RESPONSIVE DESIGN
+
+The website must be fully responsive.
+
+### Desktop
+
+Show the full visual experience:
+
+* Large purple frame
+* Character
+* Side borders
+* 3D objects
+* Scrapbook cards
+* Large project layouts
+
+### Tablet
+
+Adjust:
+
+* Frame size
+* Spacing
+* Typography
+* Card dimensions
+* 3D elements
+
+### Mobile
+
+Do not merely shrink the desktop design.
+
+Redesign the layout intentionally.
+
+Hero becomes:
+
+Character
+
+↓
+
+Name
+
+↓
+
+Professional title
+
+↓
+
+Introduction
+
+↓
+
+CTA buttons
+
+Side borders become thinner.
+
+3D objects become smaller.
+
+Projects become single-column.
+
+Experience timeline becomes simplified.
+
+Navigation becomes a mobile menu.
+
+Typography remains readable.
+
+The butter-yellow background remains dominant.
+
+---
+
+# 26. ACCESSIBILITY
+
+The website must remain accessible.
+
+Implement:
+
+* Semantic HTML
+* Keyboard navigation
+* Visible focus states
+* Accessible buttons
+* Accessible links
+* Good color contrast
+* Meaningful alt text
+* Reduced-motion support
+
+If the user has reduced-motion preferences enabled, animations should automatically become minimal.
+
+The website should still look beautiful without animations.
+
+---
+
+# 27. PERFORMANCE
+
+The website should feel fast and responsive.
+
+Use:
+
+* Optimized images
+* Lazy loading
+* CSS transforms
+* Lightweight animations
+* SVG where appropriate
+* Efficient 3D rendering
+* Code splitting where useful
+
+If using Three.js or React Three Fiber, use it strategically.
+
+Do not add heavy 3D scenes unnecessarily.
+
+The portfolio must remain smooth on normal laptops and mobile devices.
+
+---
+
+# 28. TECHNICAL IMPLEMENTATION
+
+Use a modern production-quality frontend.
+
+Preferred technology:
+
+* React
+* TypeScript
+* Tailwind CSS or structured CSS
+* Framer Motion for animations
+* Three.js / React Three Fiber for selected 3D elements
+
+Use reusable components such as:
+
+* Navbar
+* Hero
+* FriendsFrame
+* DeveloperCharacter
+* Floating3DObject
+* About
+* ExperienceTimeline
+* Skills
+* SkillCard
+* Projects
+* ProjectCard
+* Education
+* AchievementCard
+* Contact
+* Footer
+* DecorativeBorders
+
+Keep the architecture clean and maintainable.
+
+---
+
+# 29. RECRUITER EXPERIENCE
+
+Although the website is cute and aesthetic, it must remain recruiter-friendly.
+
+Within the first few seconds, a recruiter should understand:
+
+**Who is this person?**
+
+**What do they study?**
+
+**What is their current role?**
+
+**What technologies do they know?**
+
+**What projects have they built?**
+
+**Where have they worked?**
+
+**How can I contact them?**
+
+Important professional information should never be hidden behind excessive animation.
+
+Projects should be easy to discover.
+
+The current internship should be clearly visible.
+
+Contact information should be accessible.
+
+---
+
+# 30. VISUAL HIERARCHY
+
+Prioritize the information in this order:
+
+1. Name
+2. Professional identity
+3. Current Software Developer Internship
+4. Projects
+5. Technical Skills
+6. Experience
+7. Education
+8. Achievements
+9. Contact
+
+Adjust the order only if the resume suggests a better professional narrative.
+
+---
+
+# 31. FRIENDS INSPIRATION WITHOUT COPYING
+
+The visual identity may be inspired by FRIENDS, especially:
+
+* Purple picture frame
+* Warm nostalgic feeling
+* Casual scrapbook aesthetic
+* Photo-frame layouts
+* Friendship-related language
+* Coffee-shop atmosphere
+* Playful visual details
+
+However, do not directly copy copyrighted assets.
+
+Do not use:
+
+* TV screenshots
+* Actor photographs
+* Episode images
+* Official promotional artwork
+* Exact copyrighted compositions
+
+Create an original portfolio that captures the **spirit and visual mood** without becoming a fan website.
+
+The visitor should see the inspiration while still seeing a unique personal brand.
+
+---
+
+# 32. DO NOT MAKE IT LOOK LIKE A TEMPLATE
+
+This is extremely important.
+
+Do not create:
+
+A hero with a standard developer illustration.
+
+Then three generic cards.
+
+Then a standard skills grid.
+
+Then generic project cards.
+
+Then a standard contact form.
+
+Instead, every section should share the same visual world.
+
+The purple frame should connect to the project cards.
+
+The scrapbook style should connect to the timeline.
+
+The 3D character should connect to the hero.
+
+The side borders should connect all sections.
+
+The butter-yellow background should unify everything.
+
+The typography should remain consistent.
+
+The portfolio should feel custom-built.
+
+---
+
+# 33. PERSONALITY
+
+The website should feel like it belongs to a real person.
+
+The cute developer character should act as the visual representation of the portfolio owner.
+
+The recurring 3D objects should feel like her digital companions.
+
+Small jokes or playful lines can be used sparingly.
+
+However, professional content must remain clear.
+
+The tone should be:
+
+**Warm + Intelligent + Cute + Confident + Professional**
+
+Avoid:
+
+**Childish + Overly Corporate + Generic + Overly Dramatic**
+
+---
+
+# 34. CONTENT WRITING STYLE
+
+Rewrite resume information into concise portfolio-friendly copy.
+
+Use:
+
+* Short paragraphs
+* Strong headings
+* Clear descriptions
+* Scannable cards
+* Meaningful labels
+
+Avoid huge walls of text.
+
+For project descriptions, focus on:
+
+**What was built → Why it was built → How it was built → What the user contributed**
+
+For experience:
+
+**Role → Responsibilities → Technologies → Contributions**
+
+For skills:
+
+**Category → Technology**
+
+For education:
+
+**Degree → Institution → Timeline → Relevant information**
+
+---
+
+# 35. FINAL PAGE STRUCTURE
+
+The recommended complete structure is:
+
+### 01 — HOME
+
+FRIENDS-inspired purple frame
+
+Cute female developer
+
+Name
+
+Professional title
+
+Short introduction
+
+CTA buttons
+
+3D companion
+
+Decorative borders
+
+### 02 — ABOUT
+
+Personal introduction
+
+Academic/professional background
+
+Cute illustration
+
+3D object
+
+### 03 — EXPERIENCE
+
+Professional timeline
+
+Current internship highlighted
+
+Previous experiences
+
+### 04 — SKILLS
+
+Interactive technical skill cards
+
+Categorized technologies
+
+### 05 — PROJECTS
+
+Scrapbook/Polaroid project gallery
+
+Interactive project cards
+
+Detailed project modal
+
+### 06 — EDUCATION
+
+Academic timeline
+
+### 07 — ACHIEVEMENTS
+
+Awards/certifications/hackathons where applicable
+
+### 08 — CONTACT
+
+Friendly CTA
+
+Email
+
+GitHub
+
+LinkedIn
+
+Other links
+
+### 09 — FOOTER
+
+Minimal personal signature
+
+---
+
+# 36. FINAL QUALITY STANDARD
+
+Before considering the website complete, evaluate it against the following criteria.
+
+### DESIGN
+
+Does it immediately look different from a generic developer portfolio?
+
+Does the butter-yellow background dominate?
+
+Does the purple frame create a recognizable identity?
+
+Do the dark-brown borders run consistently throughout?
+
+Does Caacupé One create a distinctive personality?
+
+### CHARACTER
+
+Does the female Computer Science character look cute but professional?
+
+Does she feel like the mascot of the portfolio?
+
+Are her animations subtle?
+
+### 3D
+
+Are the 3D elements aesthetically consistent?
+
+Do they feel integrated rather than randomly inserted?
+
+### CONTENT
+
+Is every professional fact taken from the resume?
+
+Has anything been fabricated?
+
+Can recruiters quickly find important information?
+
+### INTERACTION
+
+Do cards respond naturally?
+
+Are animations smooth?
+
+Do hover effects feel premium?
+
+### RESPONSIVENESS
+
+Does the website work beautifully on desktop?
+
+Tablet?
+
+Mobile?
+
+### PERFORMANCE
+
+Does it load quickly?
+
+Do animations remain smooth?
+
+Does 3D remain lightweight?
+
+### PROFESSIONALISM
+
+Would a recruiter take the portfolio seriously?
+
+Would they remember it afterward?
+
+The answer to all of these should be YES.
+
+---
+
+# 37. THE FINAL EMOTIONAL EXPERIENCE
+
+The website should tell a story.
+
+The visitor should first feel:
+
+**"Oh, this is cute."**
+
+Then:
+
+**"Wait, this is actually a serious Computer Science student."**
+
+Then:
+
+**"These projects are impressive."**
+
+Then:
+
+**"The design is really memorable."**
+
+And finally:
+
+**"I should connect with her."**
+
+That emotional progression is the goal.
+
+---
+
+# 38. FINAL CREATIVE DIRECTION
+
+The final website should feel like a digital scrapbook where:
+
+**The butter-yellow background is the paper.**
+
+**The dark-brown side borders are the hand-drawn notebook edges.**
+
+**The purple FRIENDS-inspired frame is the signature visual.**
+
+**The female developer is the main character.**
+
+**The 3D laptop/computer is her digital companion.**
+
+**The projects are photographs of things she has built.**
+
+**The experience timeline is her professional journey.**
+
+**The skills are her technical toolkit.**
+
+**The achievements are things collected along the way.**
+
+**The contact section is the invitation to connect.**
+
+Every element should contribute to this world.
+
+---
+
+# 39. NON-NEGOTIABLE RULES
+
+Follow these rules throughout implementation:
+
+1. Use the attached resume as the factual source of truth.
+2. Never fabricate professional information.
+3. Keep butter yellow as the dominant background.
+4. Use dark brown/black for borders and primary typography.
+5. Use FRIENDS-inspired purple primarily as an accent.
+6. Use Caacupé One throughout the website.
+7. Include the purple FRIENDS-inspired frame in the hero.
+8. Include a cute animated female Computer Science developer.
+9. Include recurring aesthetic 3D elements.
+10. Include continuous decorative side borders.
+11. Keep the website professional enough for recruiters.
+12. Keep animations subtle and performant.
+13. Make the website fully responsive.
+14. Make the project section highly interactive.
+15. Make the current internship clearly visible.
+16. Do not create fake statistics.
+17. Do not create fake links.
+18. Do not use copyrighted FRIENDS promotional assets.
+19. Do not make the website look like a generic template.
+20. Prioritize usability over decoration.
+
+---
+
+# 40. FINAL INSTRUCTION TO THE WEBSITE-BUILDING AI
+
+Do not interpret this prompt as a simple request for a colorful portfolio.
+
+The objective is to create a **complete personal brand experience**.
+
+Build the website as if you are simultaneously:
+
+* A senior frontend engineer
+* A professional UI/UX designer
+* A motion designer
+* A visual brand designer
+* A recruiter-focused portfolio consultant
+
+Every design decision should support the central concept:
+
+## "A cute, memorable, FRIENDS-inspired digital home for a serious Computer Science developer."
+
+The first screen should make the visitor stop scrolling.
+
+The projects should make them want to explore.
+
+The experience section should establish credibility.
+
+The skills section should communicate technical breadth clearly.
+
+The animations should make the site feel alive.
+
+The 3D objects should create personality.
+
+The scrapbook elements should make the portfolio unique.
+
+The butter-yellow background should unify the entire website.
+
+The purple frame should become the signature visual identity.
+
+The female developer character should become the recognizable visual mascot.
+
+The side borders should make the page feel handcrafted.
+
+The typography should make the portfolio immediately recognizable.
+
+Most importantly, the final result must not look like an AI-generated generic portfolio.
+
+It should look like a **designer and developer intentionally created a unique personal website for one specific Computer Science student.**
+
+Make the experience polished enough to be shown during:
+
+* Job applications
+* Internship applications
+* Campus placements
+* Technical interviews
+* Recruiter outreach
+* LinkedIn sharing
+* Personal branding
+* Software developer opportunities
+
+The final result should balance:
+
+**Professionalism + Personality**
+
+**Technical credibility + Creativity**
+
+**Cute aesthetics + Strong UX**
+
+**FRIENDS nostalgia + Original design**
+
+**Animation + Performance**
+
+**Visual richness + Readability**
+
+The final feeling should be:
+
+> **"Welcome to my little corner of the internet — where code, creativity, coffee, friendship, and a little chaos come together."**
+
+Build the complete responsive website now, using the attached resume as the factual source of truth, and ensure every visual, interaction, section, animation, and component contributes to the same cohesive design system.
