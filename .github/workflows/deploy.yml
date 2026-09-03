@@ -38,7 +38,7 @@ jobs:
 
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: artifacts/Portfolio/dist/public
+          path: artifacts/kriti-portfolio/dist/public
 
       - id: deployment
         uses: actions/deploy-pages@v4
